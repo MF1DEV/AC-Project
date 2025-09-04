@@ -1,0 +1,13 @@
+{
+    "webhookUrl": "https://discord.com/api/webhooks/1412548857912360971/KcFHfs1s7nMaTt0_4HPklz7QB8XJzvnPkbu-fNscmInSRLrsjbINOGeA21bvT4nip5ZV",
+    "scanIntervalMs": 5000,
+    "logLevel": "INFO",
+    "enableMemoryScanning": true,
+    "enableProcessScanning": true,
+    "enableDllDetection": true,
+    "targetProcesses": [
+        "game.exe",
+        "client.exe",
+        "launcher.exe"
+    ]
+}
